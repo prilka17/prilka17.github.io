@@ -138,3 +138,8 @@ display: block;
 products ul a {
 text-align: ;
 }
+
+.slide {
+width: 100%;
+height: 400px;
+background-color: blue;}
